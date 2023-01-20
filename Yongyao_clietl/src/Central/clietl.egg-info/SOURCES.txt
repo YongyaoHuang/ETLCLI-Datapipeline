@@ -1,0 +1,7 @@
+setup.py
+clietl.egg-info/PKG-INFO
+clietl.egg-info/SOURCES.txt
+clietl.egg-info/dependency_links.txt
+clietl.egg-info/top_level.txt
+etlcli/__init__.py
+etlcli/db.py
