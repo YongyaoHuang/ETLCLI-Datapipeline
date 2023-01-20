@@ -6,4 +6,4 @@ For the etl pipeline, I tried to built a general pipeline in order to be able to
 
 For the code I write, I try to break up the functions into separate modules for easy adjustment/testing.It is also easy to assemble and call up in small parts, and increases the readability of the code. 
 
-For this test, I  not being able to complete the pytest part due to the amount of work involved. I hope you can get what you want from it, and if you have any questions, please feel free to contact me later.
+This just an easy pipeline code. I am still learning how to improve it. If you have any suggestions/advice, welcome to leave a message!
